@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kuba. I have 4y+ of professional experience in following fields: manual testing, automation of tests, development.
+- 👋 Hi, I’m Kuba. I have 5y+ of professional experience in following fields: manual testing, automation of tests, development.
 - 👀 Since July 2022 working as Software Developer
 - 🌱 Currently working with following languages and technologies:
 - Java, Kotlin, Spring, Kafka, Avro, MS SQL, 
